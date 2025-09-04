@@ -291,13 +291,3 @@ Files & logs to check:
 * If two different resources advertise the *same* server-provided name at download time, the second may overwrite the first. The manifest captures what actually ended up on disk.
 
 ---
-
-## SUPPORT / EXTENSIONS
-
-Ideas for extension:
-
-* Add MIME “magic” detection to improve extensions when Canvas sends `application/octet-stream`.
-* Enforce unique filenames even when `Content-Disposition` provides a duplicate name.
-* Add per-course exclude lists or custom filters.
-
-If you customize the code (selectors, filters, naming), keep the behavior documented here in sync so you’ll remember how your build works later.

@@ -7,6 +7,7 @@ A Python script to help grab all your course files from Canvas before you lose a
 - This tool does not give access to any course material that user do not have legitimate access to already.
 - Users are responsible for ensuring compliance with their institution’s IT and academic integrity policies.
 - Do not share or redistribute downloaded course materials.
+- No login credentials are stored by this software, and no features included in it allow bypass of credentialed login.
 
 
 ## What it does

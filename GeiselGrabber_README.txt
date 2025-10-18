@@ -2,6 +2,12 @@
 
 A Python script to help grab all your course files from Canvas before you lose access. You paid a lot of money for this course material. You should keep it.
 
+- This tool is **not affiliated with or endorsed by any university, institution, hospital, or company.
+- This tool is designed specifically for personal academic use, to make accessing and managing course material more efficient and stable.
+- This tool does not give access to any course material that user do not have legitimate access to already.
+- Users are responsible for ensuring compliance with their institution’s IT and academic integrity policies.
+- Do not share or redistribute downloaded course materials.
+
 
 ## What it does
 
